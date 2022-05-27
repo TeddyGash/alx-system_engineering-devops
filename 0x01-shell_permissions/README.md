@@ -10,3 +10,4 @@ What each script in this folder does
 - 7-everybody: adds execution permission to the owner, the group owner and the other users, to the file hello
 - 8-James_Bond: gives all permission to only the other users and not the owner or group owners
 - 9-John_Doe: gives -rwxr-x-wx permission
+- 10-mirror_permissions: changes the permission the file hello to -rw-rw-r--
