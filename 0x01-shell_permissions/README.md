@@ -9,3 +9,4 @@ What each script in this folder does
 - 6-multiple_permissions: adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 - 7-everybody: adds execution permission to the owner, the group owner and the other users, to the file hello
 - 8-James_Bond: gives all permission to only the other users and not the owner or group owners
+- 9-John_Doe: gives -rwxr-x-wx permission
