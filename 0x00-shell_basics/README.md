@@ -6,3 +6,4 @@ What each of the scripts in this folder does
 - 3-listfiles: displays current directory contents in a long format
 - 4-listmorefiles: displays in long format current directory contents, including hidden files (starting with .)
 - 5-listfilesdigitonly: lists all contents of current directory including group and user ID
+- 6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory
