@@ -4,3 +4,4 @@ What each script in this folder does
 - 1-who_am_i: prints name of current user
 - 2-groups: prints groups user belongs to
 - 3-new_owner: changes ownership of file hello to user betty
+- 4-empty: creates an empty file named hello
