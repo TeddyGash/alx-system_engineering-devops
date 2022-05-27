@@ -12,3 +12,4 @@ What each script in this folder does
 - 9-John_Doe: gives -rwxr-x-wx permission
 - 10-mirror_permissions: changes the permission the file hello to -rw-rw-r--
 - 11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users; regular files not changed
+- 12-directory_permissions: creates a directory called my_dir with permissions 751 in the working directory
