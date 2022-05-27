@@ -11,3 +11,4 @@ What each script in this folder does
 - 8-James_Bond: gives all permission to only the other users and not the owner or group owners
 - 9-John_Doe: gives -rwxr-x-wx permission
 - 10-mirror_permissions: changes the permission the file hello to -rw-rw-r--
+- 11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users; regular files not changed
