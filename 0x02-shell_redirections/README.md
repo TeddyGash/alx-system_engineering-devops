@@ -21,3 +21,4 @@ What each script in this folder does
 - 18-letteronly: displays all lines of the file /etc/ssh/sshd_config starting with a letter
 - 20-hiago: removes all letters c and C from input
 - 21-reverse: reverses input
+- 22-users_and_homes: displays all users and their home directories, sorted by users based on the the /etc/passwd file
